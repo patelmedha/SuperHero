@@ -1,12 +1,13 @@
 # SuperHero
-[![](https://assets.codingdojo.com/boomyeah2015/codingdojo/curriculum/content/chapter/1688169208__Alargeteamofmaskedsuperheroessavingtheworld.png)
+(​Image Generated in Collaboration with DallE)
+![image](https://github.com/patelmedha/SuperHero/assets/128777607/2bdc4617-f50d-4824-9e54-81691ce03e99)
 
     
 ## Data
-    - Data Source: https://www.kaggle.com/datasets/claudiodavi/superhero-set
+- Data Source: https://www.kaggle.com/datasets/claudiodavi/superhero-set
 
 ### The Data
-    - You will be working with a heavily modified version of the Superheroes dataset from Kaggle.
+- You will be working with a heavily modified version of the Superheroes dataset from Kaggle.
 
 - The dataset includes two csv's:
 
@@ -17,9 +18,9 @@
     - Contains Hero name and list of powers
 
 ### The Task
-    - Your task is two-fold:
+- Your task is two-fold:
 
-        1. Clean the files and combine them into one final DataFrame.
+  1. Clean the files and combine them into one final DataFrame.
 
 This dataframe should have the following columns:
 - Hero (Just the name of the Hero)
@@ -38,7 +39,7 @@ This dataframe should have the following columns:
 - Superspeed
     etc.
 
-        2. Use your combined DataFrame to answer the following questions.
+  2. Use your combined DataFrame to answer the following questions.
 
 - Compare the average weight of super powers who have Super Speed to those who do not.
 - What is the average height of heroes for each publisher?
